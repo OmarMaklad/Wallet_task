@@ -34,6 +34,9 @@ dependencies:
   bloc:
   flutter_bloc:
   carousel_slider:
+  fl_animated_linechart: ^1.1.4
+  fl_chart: ^0.40.2
+  syncfusion_flutter_charts:
 
 dev_dependencies:
   flutter_test:
